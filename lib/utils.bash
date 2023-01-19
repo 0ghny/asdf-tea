@@ -65,7 +65,6 @@ install_version() {
   )
 }
 
-
 # Credits: https://github.com/asdf-community/asdf-hashicorp/blob/bc4dec6e99c501d126bf2f699190e4a0c9a10b3e/bin/install#L106
 # LICENSE: MIT (https://github.com/asdf-community/asdf-hashicorp/blob/bc4dec6e99c501d126bf2f699190e4a0c9a10b3e/LICENSE#L1)
 get_platform() {
